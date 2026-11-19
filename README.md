@@ -14,18 +14,7 @@ README.md                         # Setup and project documentation
 
 ## Architecture and workflow
 
-```mermaid
-flowchart TD
-    A\[Request] --> B{Input safe?}
-    B -->|No| Z\[Reject]
-    B -->|Yes| C\[Planner: plan]
-    C --> D\[Researcher: Tavily search]
-    D --> E\[Planner: itinerary]
-    E --> F{Reviewer: approve?}
-    F -->|Yes| G\[Return itinerary]
-    F -->|No, first attempt| E
-    F -->|No, second attempt| Z
-```
+
 
 Three specialized agents work in a sequential, centrally orchestrated workflow. The Planner Agent creates a plan and writes the itinerary; the Research Agent uses Tavily for external facts; the Reviewer Agent checks output quality and requests at most one revision. The reasoning patterns are Plan-and-Execute and Reflection/Self-Critique.
 
