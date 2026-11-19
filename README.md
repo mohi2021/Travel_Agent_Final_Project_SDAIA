@@ -49,7 +49,7 @@ Input length/budget validation, detection of simple prompt-injection patterns, m
 ## Future improvements
 
 1.add weather 
-2. changing currency.
+2. traffic jam
 
 ## Trainers
 GitHub:
