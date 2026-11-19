@@ -51,9 +51,9 @@ Input length/budget validation, detection of simple prompt-injection patterns, m
 1.add weather 
 2. traffic jam
 
-## Trainers
+## contributors
 GitHub:
-1.mohi2021
+1.MOHAMMED ALSAHLY (https://github.com/mohi2021)
 2.aldajania
 3.magedr747-lang
 4.aly-m-alyami
