@@ -54,7 +54,7 @@ Input length/budget validation, detection of simple prompt-injection patterns, m
 ## contributors
 GitHub:
 1.MOHAMMED ALSAHLY (https://github.com/mohi2021)
-2.aldajania
+2.Abdulrahman Aldajani (https://github.com/aldajania)
 3.magedr747-lang
 4.aly-m-alyami
 
