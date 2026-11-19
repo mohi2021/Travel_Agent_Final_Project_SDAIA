@@ -13,7 +13,7 @@ README.md                         # Setup and project documentation
 ```
 
 ## Architecture and workflow
-![https://github.com/mohi2021/Travel_Agent_Final_Project_SDAIA/blob/main/download111.png]
+![download111.png]
 ### Architecture and workflow
 
 
