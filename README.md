@@ -55,8 +55,8 @@ Input length/budget validation, detection of simple prompt-injection patterns, m
 GitHub:
 1.MOHAMMED ALSAHLY (https://github.com/mohi2021)
 2.Abdulrahman Aldajani (https://github.com/aldajania)
-3.magedr747-lang
-4.aly-m-alyami
+3. Maged ALmutairi(https://github.com/magedr747-lang)
+4.Ali Alyami (https://github.com/aly-m-alyami)
 
 ## Special Thanks
 Special Thanks to SDAIA to provided us with Generic AI course
